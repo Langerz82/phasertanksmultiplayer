@@ -1,0 +1,15 @@
+{
+  "name": "socket.io",
+  "homepage": "https://github.com/LearnBoost/socket.io",
+  "version": "1.7.3",
+  "_release": "1.7.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.7.3",
+    "commit": "06044efbe2c6f7bbe8f8a5468e3f04e9fcaa5758"
+  },
+  "_source": "https://github.com/LearnBoost/socket.io.git",
+  "_target": "^1.7.3",
+  "_originalSource": "socket.io",
+  "_direct": true
+}
