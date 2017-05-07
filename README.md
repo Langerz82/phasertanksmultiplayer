@@ -7,3 +7,6 @@ Go to the source files root path.
 Run node server.
 
 The game port it runs on is 8081.
+
+The DEMO Version is running here:
+http://vps128058.vps.ovh.ca:8081/
