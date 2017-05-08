@@ -248,7 +248,7 @@ var addPlayer = function(id,x,y){
 };
 
 var movePlayer = function(id,x,y,v,r,tr){
-    if (playerId == id)
+    if (myPlayer == playerMap[id])
 	return;
 
     var player = playerMap[id];
